@@ -11,8 +11,8 @@ I'm Kholodov Aleksandr.
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
 ![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas&logoColor=6296CC)
 ![scikitlearn](https://img.shields.io/badge/-scikitlearn-090909?style=for-the-badge&logo=scikitlearn&logoColor=6296CC)
-
-
+-->
+<!--
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
