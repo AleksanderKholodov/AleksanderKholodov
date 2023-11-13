@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm Kholodov Aleksandr.
 
+I'm currently looking for job in DataSciense, ML etc.
 <!--
 **AleksanderKholodov/AleksanderKholodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
