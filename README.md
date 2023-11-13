@@ -10,7 +10,7 @@ I'm Kholodov Aleksandr.
 <br />
 
 ### Languages and Tools:
-![Pytvbcbhon](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
 <!--
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
