@@ -12,6 +12,8 @@ I'm Kholodov Aleksandr.
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
 ![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas&logoColor=6296CC)
+![scikitlearn](https://img.shields.io/badge/-scikitlearn-090909?style=for-the-badge&logo=scikitlearn&logoColor=6296CC)
+
 
 <!--
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
