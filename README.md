@@ -1,6 +1,10 @@
 ### Hi there 👋
 I'm Kholodov Aleksandr.
 
+I have some great experience in Data Analysis and Data Science.
+
+My stack is: Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, Catboost, LGBM, XGBoost
+
 I'm currently looking for job in DataSciense, ML etc.
 <!--
 **AleksanderKholodov/AleksanderKholodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
